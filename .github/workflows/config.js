@@ -1,0 +1,1 @@
+module.exports = { awsAccessKeyId: 'AKIAJ5Q7XK2MNB4TRW6P' };
