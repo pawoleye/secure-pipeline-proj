@@ -15,5 +15,3 @@ SAST (Semgrep), SCA (Snyk), and secrets scanning (Gitleaks) on every pull reques
     docker run -p 3000:3000 secure-app
 
 ## Pipeline
-
-_To be filled in: diagram, what each scanner caught, before/after screenshots._
